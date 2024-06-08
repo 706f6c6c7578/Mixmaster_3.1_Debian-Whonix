@@ -8,7 +8,7 @@ Copy libncurses.so.5, libpcre.so.3 and libinfo.so.5 to
 
 Copy mixmaster to /usr/local/bin/
 
-After that put allpingers.txt in your Mix folder.
+After that put allpingers.txt and mix.cfg into your Mix folder.
 
 P.S. all the files where copied to a Whonix
 Workstation and Mixmaster 3.1 works fine there.
