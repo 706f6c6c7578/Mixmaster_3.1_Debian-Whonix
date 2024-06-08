@@ -2,12 +2,13 @@ Before running Mixmaster 3.1 install vim
 and put 'export MIXPATH=~/Mix' in your .bashrc.
 
 Copy libcrypto.so.1.0.0 to /usr/lib/x86_64-linux-gnu/.
+
 Copy libncurses.so.5, libpcre.so.3 and libinfo.so.5 to
 /lib/x86_64-linux-gnu/.
+
 Copy mixmaster to /usr/local/bin/
 
 After that put allpingers.txt in your Mix folder.
 
 P.S. all the files where copied to a Whonix
 Workstation and Mixmaster 3.1 works fine there.
-
