@@ -1,0 +1,6 @@
+Before running Mixmaster 3.1 install vim
+and put 'export MIXPATH=~/Mix' in your .bashrc.
+
+P.S. all the files where copied to a Whonix
+Workstation and Mixmaster 3.1 works fine there.
+
